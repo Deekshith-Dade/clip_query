@@ -1,0 +1,6 @@
+__pycache__
+chroma
+env
+images
+*pt
+*.ipynb
